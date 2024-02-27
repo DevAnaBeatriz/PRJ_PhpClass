@@ -1,12 +1,13 @@
-Project PHP Class
-Description
-This repository contains the source code of all PHP classes in the Systems Analysis and Development course.
+<h1 align="center">Project PHP Class</h1>
 
-How to Clone the Repository
-To clone this repository and get a local copy of the source code, follow the steps below:
+###
 
-▸ Open the terminal or command line;
-▸ Navigate to the directory where you want to clone the repository;
-▸ Run the following command: "https://github.com/DevAnaBeatriz/PRJ_PhpClass.git";
-▸ Wait until the cloning process is complete; and
-▸ After completing these steps, you will have a local copy of the repository in your development environment.
+<h2 align="left">Description</h2>
+
+###
+
+<p align="left">This repository contains the source code of all PHP classes in the Systems Analysis and Development course.</p>
+
+<h2 align="left">How to Clone the Repository</h2>
+
+<p align="left">To clone this repository and get a local copy of the source code, follow the steps below:<br><br>▸ Open the terminal or command line;<br>▸ Navigate to the directory where you want to clone the repository;<br>▸ Run the following command: "https://github.com/DevAnaBeatriz/PRJ_PhpClass.git";<br>▸ Wait until the cloning process is complete; and<br>▸ After completing these steps, you will have a local copy of the repository in your development environment.</p>
